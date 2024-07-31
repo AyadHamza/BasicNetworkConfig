@@ -25,7 +25,7 @@ This Project consists of one router and two switches, as well as four endhosts/w
 <br /> Connect devices with Copper Striaght-Through & Document Ports <br /> 
 <img src= https://imgur.com/1O0MJj4.png height="80%" width="80%">
 <br />
-<br /> Connect PC0 with a managment console cable to the routers console port<br /> 
+<br /> Connect PC0 to the managment console port to the routers console port<br /> 
 <img src= https://imgur.com/VsNt2cD.png height="80%" width="80%">
 <br />
 <br /> Access PC0's terminal to configure router<br /> 
